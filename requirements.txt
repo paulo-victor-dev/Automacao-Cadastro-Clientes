@@ -1,0 +1,7 @@
+openpyxl==3.1.5
+PyAutoGUI==0.9.54
+pyperclip==1.9.0
+pywin32==308
+pywin32-ctypes==0.2.3
+requests==2.32.3
+selenium==4.26.1
